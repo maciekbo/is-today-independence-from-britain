@@ -72,15 +72,23 @@ const month = monthNames[today.getMonth()]; // Returns the month (0-11), so we a
 const today_date = day + " " + month;
 
 var date_found = false;
+var names = []
 
 for (var i = 0; i < countries.length; i++) {
     if (countries[i].date == today_date) {
         date_found = true;
+        names.push(countries[i].name);
     }
 }
 
+
 if (date_found) {
+    var compressed_names = names[0];
+    for (var i = 1; i < names.length; i++) {
+        compressed_names += ", " + names[i];
+    }
     document.getElementById("answer").innerHTML = "Yes.";
+    document.getElementById("names").innerHTML = "Countries that got independence on " + month + " " + day + ": " + compressed_names + "."
 } else {
     document.getElementById("answer").innerHTML = "No.";
 }

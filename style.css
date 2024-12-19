@@ -2,10 +2,10 @@ body {
     background-color: #2f448f;
 }
 
-h1, h2{
+h1, h2, h3 {
     text-align: center;
 }
 
-#main_header, #answer {
+#main_header, #answer, #names {
     color: #e0e0e0;
 }
