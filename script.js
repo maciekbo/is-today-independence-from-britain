@@ -1,63 +1,63 @@
 countries = [
-    {"date":"1 January\n","name":"Brunei\n","year":"1984\n"},
-    {"date":"1 January\n","name":"Sudan\n","year":"1956\n"},
-    {"date":"4 January\n","name":"Myanmar\n","year":"1948\n"},
-    {"date":"31 January\n","name":"Nauru\n","year":"1968\n"},
-    {"date":"4 February\n","name":"Sri Lanka\n","year":"1948\n"},
-    {"date":"7 February\n","name":"Grenada\n","year":"1974\n"},
-    {"date":"18 February\n","name":"The Gambia\n","year":"1965\n"},
-    {"date":"22 February\n","name":"Saint Lucia\n","year":"1979\n"},
-    {"date":"28 February\n","name":"Egypt\n","year":"1922\n"},
-    {"date":"6 March\n","name":"Ghana\n","year":"1957\n"},
-    {"date":"12 March\n","name":"Mauritius\n","year":"1968\n"},
-    {"date":"18 April\n","name":"Zimbabwe\n","year":"1980\n"},
-    {"date":"27 April\n","name":"Sierra Leone\n","year":"1961\n"},
-    {"date":"14 May\n","name":"Israel\n","year":"1948\n"},
-    {"date":"25 May\n","name":"Jordan\n","year":"1946\n"},
-    {"date":"26 May\n","name":"Guyana\n","year":"1966\n"},
-    {"date":"4 June\n","name":"Tonga\n","year":"1970\n"},
-    {"date":"19 June\n","name":"Kuwait\n","year":"1961\n"},
-    {"date":"26 June\n","name":"Somaliland\n","year":"1960\n"},
-    {"date":"29 June\n","name":"Seychelles\n","year":"1976\n"},
-    {"date":"4 July\n","name":"United States\n","year":"1776\n"},
-    {"date":"6 July\n","name":"Malawi\n","year":"1964\n"},
-    {"date":"7 July\n","name":"Solomon Islands\n","year":"1978\n"},
-    {"date":"10 July\n","name":"The Bahamas\n","year":"1973\n"},
-    {"date":"12 July\n","name":"Kiribati\n","year":"1979\n"},
-    {"date":"26 July\n","name":"Maldives\n","year":"1965\n"},
-    {"date":"30 July\n","name":"Vanuatu\n","year":"1980\n"},
-    {"date":"6 August\n","name":"Jamaica\n","year":"1962\n"},
-    {"date":"14 August\n","name":"Pakistan\n","year":"1947\n"},
-    {"date":"15 August\n","name":"Bahrain\n","year":"1971\n"},
-    {"date":"15 August\n","name":"India\n","year":"1947\n"},
-    {"date":"16 August\n","name":"Cyprus\n","year":"1960\n"},
-    {"date":"19 August\n","name":"Afghanistan\n","year":"1919\n"},
-    {"date":"31 August\n","name":"Trinidad and Tobago\n","year":"1962\n"},
-    {"date":"31 August\n","name":"Malaya\n","year":"1957\n"},
-    {"date":"3 September\n","name":"Qatar\n","year":"1971\n"},
-    {"date":"6 September\n","name":"Eswatini\n","year":"1968\n"},
-    {"date":"19 September\n","name":"Saint Kitts and Nevis\n","year":"1983\n"},
-    {"date":"21 September\n","name":"Belize\n","year":"1981\n"},
-    {"date":"21 September\n","name":"Malta\n","year":"1964\n"},
-    {"date":"30 September\n","name":"Botswana\n","year":"1966\n"},
-    {"date":"1 October\n","name":"Tuvalu\n","year":"1978\n"},
-    {"date":"1 October\n","name":"Nigeria\n","year":"1960\n"},
-    {"date":"3 October\n","name":"Iraq\n","year":"1932\n"},
-    {"date":"4 October\n","name":"Lesotho\n","year":"1966\n"},
-    {"date":"9 October\n","name":"Uganda\n","year":"1962\n"},
-    {"date":"10 October\n","name":"Fiji\n","year":"1970\n"},
-    {"date":"24 October\n","name":"Zambia\n","year":"1964\n"},
-    {"date":"27 October\n","name":"Saint Vincent and the Grenadines\n","year":"1979\n"},
-    {"date":"1 November\n","name":"Antigua and Barbuda\n","year":"1981\n"},
-    {"date":"3 November\n","name":"Dominica\n","year":"1978\n"},
-    {"date":"30 November\n","name":"South Yemen\n","year":"1967\n"},
-    {"date":"30 November\n","name":"Barbados\n","year":"1966\n"},
-    {"date":"2 December\n","name":"United Arab Emirates\n","year":"1971\n"},
-    {"date":"9 December\n","name":"Tanganyika\n","year":"1961\n"},
-    {"date":"10 December\n","name":"Zanzibar\n","year":"1963\n"},
-    {"date":"12 December\n","name":"Kenya\n","year":"1963\n"},
-    {"date":"20 December\n","name":"Oman\n","year":"1970\n"},
-    {"date":"24 December\n","name":"Libya\n","year":"1951\n"}
+    {"date":"1 January","name":"Brunei","year":"1984"},
+    {"date":"1 January","name":"Sudan","year":"1956"},
+    {"date":"4 January","name":"Myanmar","year":"1948"},
+    {"date":"31 January","name":"Nauru","year":"1968"},
+    {"date":"4 February","name":"Sri Lanka","year":"1948"},
+    {"date":"7 February","name":"Grenada","year":"1974"},
+    {"date":"18 February","name":"The Gambia","year":"1965"},
+    {"date":"22 February","name":"Saint Lucia","year":"1979"},
+    {"date":"28 February","name":"Egypt","year":"1922"},
+    {"date":"6 March","name":"Ghana","year":"1957"},
+    {"date":"12 March","name":"Mauritius","year":"1968"},
+    {"date":"18 April","name":"Zimbabwe","year":"1980"},
+    {"date":"27 April","name":"Sierra Leone","year":"1961"},
+    {"date":"14 May","name":"Israel","year":"1948"},
+    {"date":"25 May","name":"Jordan","year":"1946"},
+    {"date":"26 May","name":"Guyana","year":"1966"},
+    {"date":"4 June","name":"Tonga","year":"1970"},
+    {"date":"19 June","name":"Kuwait","year":"1961"},
+    {"date":"26 June","name":"Somaliland","year":"1960"},
+    {"date":"29 June","name":"Seychelles","year":"1976"},
+    {"date":"4 July","name":"United States","year":"1776"},
+    {"date":"6 July","name":"Malawi","year":"1964"},
+    {"date":"7 July","name":"Solomon Islands","year":"1978"},
+    {"date":"10 July","name":"The Bahamas","year":"1973"},
+    {"date":"12 July","name":"Kiribati","year":"1979"},
+    {"date":"26 July","name":"Maldives","year":"1965"},
+    {"date":"30 July","name":"Vanuatu","year":"1980"},
+    {"date":"6 August","name":"Jamaica","year":"1962"},
+    {"date":"14 August","name":"Pakistan","year":"1947"},
+    {"date":"15 August","name":"Bahrain","year":"1971"},
+    {"date":"15 August","name":"India","year":"1947"},
+    {"date":"16 August","name":"Cyprus","year":"1960"},
+    {"date":"19 August","name":"Afghanistan","year":"1919"},
+    {"date":"31 August","name":"Trinidad and Tobago","year":"1962"},
+    {"date":"31 August","name":"Malaya","year":"1957"},
+    {"date":"3 September","name":"Qatar","year":"1971"},
+    {"date":"6 September","name":"Eswatini","year":"1968"},
+    {"date":"19 September","name":"Saint Kitts and Nevis","year":"1983"},
+    {"date":"21 September","name":"Belize","year":"1981"},
+    {"date":"21 September","name":"Malta","year":"1964"},
+    {"date":"30 September","name":"Botswana","year":"1966"},
+    {"date":"1 October","name":"Tuvalu","year":"1978"},
+    {"date":"1 October","name":"Nigeria","year":"1960"},
+    {"date":"3 October","name":"Iraq","year":"1932"},
+    {"date":"4 October","name":"Lesotho","year":"1966"},
+    {"date":"9 October","name":"Uganda","year":"1962"},
+    {"date":"10 October","name":"Fiji","year":"1970"},
+    {"date":"24 October","name":"Zambia","year":"1964"},
+    {"date":"27 October","name":"Saint Vincent and the Grenadines","year":"1979"},
+    {"date":"1 November","name":"Antigua and Barbuda","year":"1981"},
+    {"date":"3 November","name":"Dominica","year":"1978"},
+    {"date":"30 November","name":"South Yemen","year":"1967"},
+    {"date":"30 November","name":"Barbados","year":"1966"},
+    {"date":"2 December","name":"United Arab Emirates","year":"1971"},
+    {"date":"9 December","name":"Tanganyika","year":"1961"},
+    {"date":"10 December","name":"Zanzibar","year":"1963"},
+    {"date":"12 December","name":"Kenya","year":"1963"},
+    {"date":"20 December","name":"Oman","year":"1970"},
+    {"date":"24 December","name":"Libya","year":"1951"}
 ]
 
 const today = new Date();
@@ -69,4 +69,20 @@ const monthNames = [
 const day = today.getDate(); // Returns the day of the month (1-31)
 const month = monthNames[today.getMonth()]; // Returns the month (0-11), so we add 1
 
-document.getElementById("answer").innerHTML = "Today is day " + day + " of month " + month + ". Now go check Wikipedia.";
+const today_date = day + " " + month;
+
+var date_found = false;
+
+for (var i = 0; i < countries.length; i++) {
+    if (countries[i].date == today_date) {
+        date_found = true;
+    }
+}
+
+if (date_found) {
+    document.getElementById("answer").innerHTML = "Yes.";
+} else {
+    document.getElementById("answer").innerHTML = "No.";
+}
+
+// document.getElementById("answer").innerHTML = "Today is day " + day + " of month " + month + ". Now go check Wikipedia.";
